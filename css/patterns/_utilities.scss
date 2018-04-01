@@ -1,0 +1,51 @@
+/*==================================
+ Utility/helper classes
+===================================*/
+
+.u-print-only {
+  display: none;
+
+  @media print {
+    display: initial !important;
+  }
+}
+.u-print-hidden {
+  @media print {
+    display: none !important;
+  }
+}
+
+/*==================================
+ Commonly used mixins
+===================================*/
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+/*==================================
+ A word-wrap mixin useful for user-generated input
+ or content. Will break up long strings such as URLs.
+===================================*/
+
+@mixin word-wrap {
+  word-wrap: break-word;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+          hyphens: auto;
+}
+
+/*==================================
+ A text truncation mixin useful for one-line text that
+ needs to be cut off into a trailing ... ellipsis.
+===================================*/
+
+@mixin ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

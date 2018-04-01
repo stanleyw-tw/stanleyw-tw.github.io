@@ -1,0 +1,134 @@
+{
+  "skills": {
+    "filters": [
+      {
+        "name": "Languages",
+        "id": "lang"
+      },
+      {
+        "name": "Tools",
+        "id": "tool"
+      },
+      {
+        "name": "Platforms & Frameworks",
+        "id": "frame"
+      },
+      {
+        "name": "Knowledge",
+        "id": "soft"
+      }
+    ],
+    "list": [
+      {
+        "filter": "lang",
+        "name": "C/C++",
+        "icon": "icon-c"
+      },
+      {
+        "filter": "lang",
+        "name": "HTML/CSS",
+        "icon": "icon-html"
+      },
+      {
+        "filter": "lang",
+        "name": "Javascript",
+        "icon": "icon-javascript"
+      },
+      {
+        "filter": "tool",
+        "name": "JTAG",
+        "icon": "icon-jtag"
+      },
+      {
+        "filter": "tool",
+        "name": "Wireshark",
+        "icon": "icon-wireshark" },
+      {
+        "filter": "tool",
+        "name": "Git",
+        "icon": "icon-github"
+      },
+      {
+        "filter": "tool",
+        "name": "Signal Analyzers",
+        "icon": "icon-sa"
+      },
+      {
+        "filter": "frame",
+        "name": "Android",
+        "icon": "icon-android"
+      },
+      {
+        "filter": "frame",
+        "name": "Linux",
+        "icon": "icon-linux"
+      },
+      {
+        "filter": "soft",
+        "name": "3GPP standards",
+        "icon": "icon-standards"
+      },
+      {
+        "filter": "soft",
+        "name": "Scrum",
+        "icon": "icon-scrum"
+      },
+      {
+        "filter": "soft",
+        "name": "Agile",
+        "icon": "icon-agile"
+      }
+    ]
+  },
+  "experience": {
+    "filters": [
+      {
+        "name": "Development",
+        "id": "dev",
+        "unchecked": false
+      },
+      {
+        "name": "Research",
+        "id": "research",
+        "unchecked": false
+      }
+    ],
+    "list": [
+      {
+        "filter": "dev",
+        "title": "Software Engineer",
+        "date": "2017 - present",
+        "location": "Qualcomm Communication Technologies Inc.",
+        "summary": "Worked directly with OEM and ODM to bring up sensor device drivers and algorithms on Android and WearOS devices. Cooperated with international team of engineers supporting OEM and ODM to bring up sensor features on IOT projects, Wearable devices and VR headsets."
+      },
+      {
+        "filter": "dev",
+        "title": "Software Engineer",
+        "date": "2016 - 2017",
+        "location": "HopeBay Technologies Inc.",
+        "summary": "Designed and implemented VoIP voice call recording product for more than 1000 concurrent calls via C and Python. Developed an Android system based cloud storage extension."
+      },
+      {
+        "filter": "dev",
+        "title": "Software Engineer",
+        "date": "2013 - 2016",
+        "location": "Acer Inc.",
+        "summary": "Implemented 3GPP communication protocol features on smart phone products. Researched 3GPP protocol and issued two IoT communication patents. Implemented instance message systems via Java language. Implemented IM App with IP call function on Android handsets."
+      },
+      {
+        "filter": "research",
+        "title": "Research Assistant",
+        "date": "2011 - 2013",
+        "location": "Broadband Mobile Lab",
+        "summary": "Worked with postdoctoral researchers and contributed to advanced telecommunication project"
+      },
+      {
+        "filter": "research",
+        "title": "Research Assistant",
+        "date": "2010 - 2013",
+        "location": "High-Speed Communication & Computing Laboratory",
+        "summary": "Contributed to antional found research project and research paper. I also gained valuable experience and mentorship from other professors and researchers, and familiarized myself with communication patent/standard methodologies."
+      }
+    ]
+  }
+}

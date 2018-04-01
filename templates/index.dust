@@ -1,0 +1,10 @@
+{> "layout" /}
+{<content}
+  {> "partials/index/skills" /}
+  {> "partials/index/experience" /}
+  {> "partials/index/education" /}
+  {> "partials/index/publication" /}
+
+{! Disable Portfolio !}
+{!  {> "partials/index/portfolio" /} !}
+{/content}
