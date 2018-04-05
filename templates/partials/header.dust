@@ -4,7 +4,7 @@
       <img class="sidebar__avatar" src="/images/stanley.jpg" alt="Stanley Wu" width="128" height="128">
     </a>
     <h1 class="sidebar__name">Stanley Wu</h1>
-    <p class="u-print-hidden">is a researcher/software developer who loves creating aesthetically pleasing and usable things.</p>
+    <p class="u-print-hidden">is a researcher/software developer who loves creating new technologies and usable things.</p>
   </div>
   <ul class="sidebar__socials">
     <li class="sidebar__link">
