@@ -26,6 +26,11 @@
       },
       {
         "filter": "lang",
+        "name": "Python",
+        "icon": "icon-python"
+      },
+      {
+        "filter": "lang",
         "name": "HTML/CSS",
         "icon": "icon-html"
       },
@@ -36,17 +41,13 @@
       },
       {
         "filter": "tool",
-        "name": "JTAG",
-        "icon": "icon-jtag"
+        "name": "Sensor",
+        "icon": "icon-sensor"
       },
       {
         "filter": "tool",
-        "name": "Wireshark",
-        "icon": "icon-wireshark" },
-      {
-        "filter": "tool",
         "name": "Git",
-        "icon": "icon-github"
+        "icon": "icon-git"
       },
       {
         "filter": "tool",
