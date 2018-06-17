@@ -8,11 +8,9 @@
 
 <!-- Google Analytics -->
 <!-- Please remove DISABLE if needed --!>
-<!-- DISABLE
 <script>
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-XXXXXXXX-X', 'auto');
+ga('create', 'UA-120957358-1', 'auto');
 ga('send', 'pageview');
 </script>
 <script src='//www.google-analytics.com/analytics.js' async defer></script>
-DISABLE  -->
