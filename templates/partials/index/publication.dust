@@ -7,16 +7,23 @@
 
   <div class="experience">
     <header class="experience__heading">
-      <h3 class="experience__title">Method and Device of Group Based on MTC in Communication System</h3>
-      <time class="experience__date">2015</time>
+      <h3 class="experience__title"> <a href="https://patents.google.com/patent/US9991979B2/" style="color:black;font-weight:bol
+d;"> Method and Device of Group Based on MTC in Communication System </a></h3>
+      <time class="experience__date">2016</time>
     </header>
-    <h4 class="experience__location">US Patent No. US9991979 B2, C.-C. Wu</h4>
+    <h4 class="experience__location">US Patent No. US9991979 B2, Chien-Cheng Wu</h4>
 
     <header class="experience__heading">
-      <h3 class="experience__title">MTC Devices, Service Networks & Methods for Configuring Periodic Update Timers</h3>
-      <time class="experience__date">2014</time>
+      <h3 class="experience__title"> <a href="https://patents.google.com/patent/US9781544B2/" style="color:black;font-weight:bold;"> MTC Devices, Service Networks & Methods for Configuring Periodic Update Timers </a></h3>
+      <time class="experience__date">2015</time>
     </header>
-    <h4 class="experience__location">US Patent No. US9781544 B2, C.-C. Wu</h4>
+    <h4 class="experience__location">US Patent No. US9781544 B2, Chien-Cheng Wu</h4>
+
+    <header class="experience__heading">
+      <h3 class="experience__title"> <a href="https://patents.google.com/patent/US9000976B2/" style="color:black;font-weight:bold;"> Positioning Method for Long-thin Fleet </a></h3>
+      <time class="experience__date">2012</time>
+    </header>
+    <h4 class="experience__location">US Patent No. US9781544 B2, L-W Chen, Chien-Cheng Wu and Y-C Tseng</h4>
   </div>
 
 </section>
