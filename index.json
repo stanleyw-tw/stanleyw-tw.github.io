@@ -100,21 +100,21 @@
         "title": "Software Engineer",
         "date": "2017 - present",
         "location": "Qualcomm Communication Technologies Inc.",
-        "summary": "Worked directly with OEM and ODM to bring up sensor device drivers and algorithms on Android and WearOS devices. Cooperated with international team of engineers supporting OEM and ODM to bring up sensor features on IOT projects, Wearable devices and VR headsets."
+        "summary": "Worked directly with OEM and ODM to bring up sensor drivers and algorithms on Android and WearOS devices. Cooperated with international team of engineers supporting OEM and ODM to bring up sensor features on wearable devices, VR headsets and the other IOT projects."
       },
       {
         "filter": "dev",
         "title": "Software Engineer",
         "date": "2016 - 2017",
         "location": "HopeBay Technologies Inc.",
-        "summary": "Designed and implemented VoIP voice call recording product for more than 1000 concurrent calls via C and Python. Developed an Android system based cloud storage extension."
+        "summary": "Implemented user-space file system functions on Linux platform via C. Implemented VoIP voice call recording service for more than 1000 concurrent calls via C and Python. Integrated PBX/VoIP voice call recording and SQL service via Python. Assisted creating dogfood call plan for start-up company"
       },
       {
         "filter": "dev",
         "title": "Software Engineer",
         "date": "2013 - 2016",
         "location": "Acer Inc.",
-        "summary": "Implemented 3GPP communication protocol features on smart phone products. Researched 3GPP protocol and issued two IoT communication patents. Implemented instance message systems via Java language. Implemented IM App with IP call function on Android handsets."
+        "summary": "Invented MTC grouping protocols for 3GPP standard and granted two US/EU patents. Designed and implemented a PBX/IP Call service via C, Android and Java languages. Built a software development environment by Git, JIRA and Jenkins for a five-people team. Implemented LTE/UMTS/GPRS/GSM communication functions on smart-phone products. Collaborated with QA team and PM team to solve bugs reported by certification labs or customers."
       },
       {
         "filter": "research",
