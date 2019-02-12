@@ -1,6 +1,6 @@
-#Main
+# Main
 
-My personal website and resume.
+My personal website and online resume.
 
 ### To Do:
 
