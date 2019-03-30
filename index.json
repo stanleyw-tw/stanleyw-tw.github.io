@@ -40,6 +40,16 @@
         "icon": "icon-javascript"
       },
       {
+        "filter": "lang",
+        "name": "Java",
+        "icon": "icon-java"
+      },
+      {
+        "filter": "lang",
+        "name": "Matlab",
+        "icon": "icon-matlab"
+      },
+      {
         "filter": "tool",
         "name": "Sensor",
         "icon": "icon-sensor"
@@ -48,6 +58,11 @@
         "filter": "tool",
         "name": "Git",
         "icon": "icon-git"
+      },
+      {
+        "filter": "tool",
+        "name": "LaTeX",
+        "icon": "icon-latex"
       },
       {
         "filter": "tool",
